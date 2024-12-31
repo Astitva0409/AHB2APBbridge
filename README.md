@@ -166,5 +166,5 @@ State Machine Viewer:
 
 # Documentation
 
-- AMBA Modules 
-- AMBA Specifications 
+- AMBA Modules [AMBA.Modules.pdf](https://github.com/user-attachments/files/18281548/AMBA.Modules.pdf)
+- AMBA Specifications [AMBA.Specifications.pdf](https://github.com/user-attachments/files/18281547/AMBA.Specifications.pdf)
